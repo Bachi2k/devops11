@@ -2,3 +2,4 @@ Dies ist ein Test für einen initialen commit!
 
 
 Heute ist Nikolaus! :-)
+Dies ist direkt im Master geändert worden
